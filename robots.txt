@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://birchcove.tech/sitemap.xml
